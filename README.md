@@ -1,4 +1,4 @@
-# -Titanic-Survival-Prediction
+# Titanic Survival Prediction
 
 **Project Summary:** Titanic Survival Prediction using Logistic Regression
 
